@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    margin-top: 300px;
+}
+
+
+form{
+    color: white;
+text-align: center;
+font-size: 3rem;
+}
+
+h2{
+    color: greenyellow;
+}
+
+p{
+    color: white;
+}
+
+.main{
+    border: 5px solid greenyellow;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+
+}

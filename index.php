@@ -11,13 +11,14 @@
 <body>
 
 <form action="badwords.php" method="GET">
+    
     <label for="paragraph">Paragrafo</label>
     <input type="text" id="paragraph" name="paragraph">
 
     <label for="censoredword">Parola da censurare</label>
     <input type="text" id="censoredword" name="censoredword">
 
-    <button type="submit">Invia</button>
+    <button type="submit">Censura!</button>
 
 </form>
     

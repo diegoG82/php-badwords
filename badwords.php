@@ -43,16 +43,6 @@ $censoredword = $_GET['censoredword'];
                                         ?> caratteri </p>
         </div>
 
-
-
-
-
-
-
-
-
-
-
 </body>
 
 </html>
